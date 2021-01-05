@@ -8,7 +8,7 @@ gem "jekyll", "~> 3.8.5"
 ## Plugins
 
 group :jekyll_plugins do
-  gem "jemoji"
+  gem "jemoji", ">= 0.11.0"
   gem "jekyll-redirect-from"
 end
 
